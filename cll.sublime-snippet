@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[console.log("line number: $TM_LINE_NUMBER", $1)]]></content>
+    <tabTrigger>cllv</tabTrigger>
+</snippet>
